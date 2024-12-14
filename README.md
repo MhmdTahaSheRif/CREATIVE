@@ -14,4 +14,4 @@ Experience the sleek design and responsiveness of CREATIVE, a beautifully animat
 ## ✨ Live Demo
 
 Explore the interactive features and dynamic elements of Spering by visiting the hosted page on Github:
-[CREATIVE Page](https:/mhmdtahasherif.github.io/CREATIVE/index.html)
+[CREATIVE Page](https://mhmdtahasherif.github.io/CREATIVE/)
